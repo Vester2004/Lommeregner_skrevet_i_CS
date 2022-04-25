@@ -1,0 +1,16 @@
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.exe
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.deps.json
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.runtimeconfig.json
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.runtimeconfig.dev.json
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.dll
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\ref\lommeregner_skrevet_CS.dll
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\bin\Debug\net5.0\lommeregner_skrevet_CS.pdb
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.csproj.AssemblyReference.cache
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.AssemblyInfoInputs.cache
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.AssemblyInfo.cs
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.csproj.CoreCompileInputs.cache
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.dll
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\ref\lommeregner_skrevet_CS.dll
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.pdb
+C:\Users\vict7\source\repos\lommeregner_skrevet_CS\lommeregner_skrevet_CS\obj\Debug\net5.0\lommeregner_skrevet_CS.genruntimeconfig.cache

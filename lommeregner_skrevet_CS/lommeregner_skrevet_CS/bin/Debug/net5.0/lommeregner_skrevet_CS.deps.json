@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "lommeregner_skrevet_CS/1.0.0": {
+        "runtime": {
+          "lommeregner_skrevet_CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lommeregner_skrevet_CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
